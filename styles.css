@@ -32,7 +32,7 @@ body {
 
 
 
-body {
+/* body {
 	background: radial-gradient(#ee7752 10%, #e73c7e 20%, #23a6d5 70%, #23d5ab 80%);
 	background-size: 600% 300%;
 	animation: gradient 50s ease infinite;
@@ -49,7 +49,7 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
-}
+} */
 
 
 
@@ -103,8 +103,7 @@ img {
 
   #intro h2 {
     font-size: 3.5rem;
-    color: var(--brightorg);
-    text-shadow: 2px 3px red;
+    color: var(--hotpink);
   }
   
   #intro .name{ /*id takes precedence over class, so id goes first and then class*/
