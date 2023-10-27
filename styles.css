@@ -33,7 +33,7 @@ body {
 
 /* #ee7752 10%, #e73c7e 10%, #23a6d5 70%, #23d5ab 80% */
 body {
-	background: radial-gradient(#ee7752 30%, #ff66b2 15%, #3399cc 70%, #33cc99 90%);
+	background: radial-gradient(#ee7752 12%, #ff66b2 15%, #3399cc 70%, #33cc99 90%);
 	background-size: 600% 300%;
 	animation: gradient 50s ease infinite;
 	height: 100vh;
