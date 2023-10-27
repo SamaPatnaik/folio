@@ -32,7 +32,7 @@ body {
 
 
 
-/* body {
+body {
 	background: radial-gradient(#ee7752 10%, #e73c7e 20%, #23a6d5 70%, #23d5ab 80%);
 	background-size: 600% 300%;
 	animation: gradient 50s ease infinite;
@@ -49,7 +49,7 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
-} */
+}
 
 
 
