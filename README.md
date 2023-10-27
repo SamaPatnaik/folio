@@ -1,2 +1,2 @@
-# the first draft of my portfolio? 
-kinda proud of it ngl
+# Welcome! This is my first website made with HTML, CSS and Javascript.
+
