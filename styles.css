@@ -173,7 +173,7 @@ img {
     margin: 2rem 0 4rem 0;
     border-top: 2px solid var(--brightorg);
     border-left: 2px solid var(--brightorg);
-    border-radius: 1rem;
+    border-radius: 2rem;
     padding: 1rem;
   }
 
